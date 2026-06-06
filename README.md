@@ -1,4 +1,5 @@
-# Bono de Programación — Problemas Generales de Conteo
+<h1 align = "center">  Bono de Programación — Problemas Generales de Conteo</h1>
+
 **Matemáticas Discretas I | Universidad Nacional de Colombia**  
 **Estudiante:** Linda Carolina Cortés Bustos  
 **Docente:** Jhoan Sebastian Tenjo García  
